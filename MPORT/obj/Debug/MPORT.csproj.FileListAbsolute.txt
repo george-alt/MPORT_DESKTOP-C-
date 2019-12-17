@@ -1,0 +1,10 @@
+D:\visual_studio\MPORT\MPORT\bin\Debug\MPORT.exe.config
+D:\visual_studio\MPORT\MPORT\bin\Debug\MPORT.exe
+D:\visual_studio\MPORT\MPORT\bin\Debug\MPORT.pdb
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.csprojAssemblyReference.cache
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.Form1.resources
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.Properties.Resources.resources
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.csproj.GenerateResource.cache
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.csproj.CoreCompileInputs.cache
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.exe
+D:\visual_studio\MPORT\MPORT\obj\Debug\MPORT.pdb
