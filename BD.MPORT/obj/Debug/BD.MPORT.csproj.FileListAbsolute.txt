@@ -1,0 +1,13 @@
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\BD.MPORT.dll
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\BD.MPORT.pdb
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\BD.dll
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\MySql.Data.dll
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\Google.Protobuf.dll
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\BD.pdb
+D:\visual_studio\MPORT\BD.MPORT\bin\Debug\MySql.Data.xml
+D:\visual_studio\MPORT\BD.MPORT\obj\Debug\BD.MPORT.csprojAssemblyReference.cache
+D:\visual_studio\MPORT\BD.MPORT\obj\Debug\BD.MPORT.csproj.CoreCompileInputs.cache
+D:\visual_studio\MPORT\BD.MPORT\obj\Debug\BD.MPORT.csproj.CopyComplete
+D:\visual_studio\MPORT\BD.MPORT\obj\Debug\BD.MPORT.dll
+D:\visual_studio\MPORT\BD.MPORT\obj\Debug\BD.MPORT.pdb
